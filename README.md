@@ -1,4 +1,8 @@
-- 👋 Hi, I’m [@ikim0106](https://github.com/ikim0106) ! if you are reading this... never mind nobody visits my profile anyways
+- 👋 Hi, I’m [@ikim0106](https://github.com/ikim0106) !
+- I'm an undergraduate at The Chinese University of Hong Kong studying Computer Engineering
+- I mainly write full stack web applications with JavaScript (Node.js)
+- I also like to write lower-level code for embedded systems and for fun with C
+- Recently started working on machine learning with neural networks
 
 <!---
 ikim0106/ikim0106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
