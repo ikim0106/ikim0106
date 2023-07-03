@@ -4,6 +4,8 @@
 - I also like to write lower-level code for embedded systems and for fun with C
 - Recently started working on machine learning with neural networks
 
+you can find me on Discord @tobsk
+
 <!---
 ikim0106/ikim0106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
